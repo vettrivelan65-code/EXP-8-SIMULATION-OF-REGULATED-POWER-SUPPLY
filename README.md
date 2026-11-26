@@ -34,7 +34,7 @@ ________________________________________
 Observation
 circuit diagram:
 <img width="1280" height="307" alt="e8" src="https://github.com/user-attachments/assets/3b7cf27a-c3f2-4322-8542-069b5a98c2e5" />
-Simulation Results:
+CHARACTERISTIC CURVE:
 
 <img width="1280" height="281" alt="r8" src="https://github.com/user-attachments/assets/83dd7c1a-13ec-42ef-90c4-8bd5174417c3" />
 
